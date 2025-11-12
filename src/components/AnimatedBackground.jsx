@@ -1,8 +1,9 @@
 import React from "react";
-import './AnimatedBackground.css';
+import "./AnimatedBackground.css";
 
 const AnimatedBackground = () => {
   const stars = Array.from({ length: 50 });
+
   return (
     <div className="stars">
       {stars.map((_, i) => (
