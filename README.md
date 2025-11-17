@@ -44,7 +44,10 @@ Estilização implementada com CSS moderno, usando variáveis, funções e anima
 
 ## 🖼️ Preview
 
-*(Insira aqui screenshots ou GIFs do contador em funcionamento para melhor visualização do projeto)*  
+<p align="center">
+  <img src="./src/img/Captura de tela 2025-11-12 183520.png" alt="TickStar - Contador de Eventos" width="400" /><br><br>
+  <img src="./src/img/blackTickStar.png" alt="TickStar Tema Dark" width="400" /><br><br>
+</p>
 
 ---
 
